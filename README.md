@@ -1,6 +1,6 @@
 # drop-model-fashion-mmm
 
-FASHION RETAIL MMMM
+FASHION RETAIL MMM
 
 ## 🎯 Executive Statement
 
